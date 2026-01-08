@@ -1,0 +1,14 @@
+# Foundry
+out/
+cache/
+broadcast/
+lib/
+
+# Environment variables
+.env
+
+# DS_Store
+.DS_Store
+
+# User-specific
+foundry.toml.local
